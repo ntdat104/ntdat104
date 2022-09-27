@@ -1,7 +1,4 @@
 <!-- ntdat104 -->
-<a href="#" target="_blank">
-  <img src="svg/ntdat104.svg" width="1200" alt="Click to see the source" />
-</a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -79,7 +76,7 @@
   <a href="https://www.linkedin.com/in/ntdat104" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="ntdat104-linkedin" />
   </a>
-  <a href="https://instagram.com/ntdat.104" target="blank">
+  <a href="https://www.instagram.com/_tadtn_" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="ntdat104-instagram" />
   </a>
   <a href="mailto:datnt.ithust@gmail.com" target="top">
@@ -88,13 +85,6 @@
 </div>
 
 <br>
-
-<h2 align="center">📑 Random Quotes 📑</h2>
-<br>
-<!-- https://github.com/shravan20/github-readme-quotes -->
-<div align="right">
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
 
 </div>
 
