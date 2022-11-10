@@ -51,10 +51,10 @@
 <br>
 <div align=center>
   <a href="#" title="Ntdat104">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntdat104&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadtn&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="Ntdat104">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ntdat104&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tadtn&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -64,7 +64,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://github.com/ntdat104" target="blank">
+  <a href="https://github.com/tadtn" target="blank">
     <img width="90" height="90" src="images/logo-ntdat104-transparent-bg-192x192.png" alt="ntdat104-blog" />
   </a>
   <a href="https://facebook.com/ntdat104" target="blank">
